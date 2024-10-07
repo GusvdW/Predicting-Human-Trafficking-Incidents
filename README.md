@@ -1,5 +1,5 @@
 # Predicting Human Trafficking Incidents Using Machine Learning and Social Media Analysis
-Introduction
+Introduction:
 Human trafficking remains one of the most pervasive human rights issues worldwide, and traditional methods of identifying trafficking victims are often inefficient due to the covert nature of these crimes. With the rise of digital communication, traffickers increasingly use online platforms to exploit vulnerable individuals. This project aims to use machine learning methodologies, including transformer models and NLP, to identify human trafficking by analyzing both structured data (incident reports) and unstructured data (social media conversations).
 
 1. Problem Statement
