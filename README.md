@@ -17,7 +17,7 @@
 #
 # 3. Dataset Overview
 # •	Global Data Dataset:
-#   o	Source: Global Trafficking Dataset (The Counter Trafficking Data Collaborative | CTDC (ctdatacollaborative.org).
+#   o	Source: Global Trafficking Dataset (The Counter Trafficking Data Collaborative | CTDC [ctdatacollaborative.org]).
 #   o	Description: This dataset consists of information on identified and reported human trafficking cases, with variables such as geographic locations, victim demographics, and methods used by traffickers.
 #   o	Type: Structured data, with 62 variables that capture detailed information such as victim profiles, trafficking methods, and exploitation types.
 # •	Twitter/X Dataset:
